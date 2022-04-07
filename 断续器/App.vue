@@ -1,5 +1,5 @@
 <template>
-<div>//放一个div，红色就没了
+<div>//放一个div，红报错没了
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
